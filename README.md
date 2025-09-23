@@ -25,7 +25,7 @@ It includes calculators, converters, games, memory/task utilities, and a convers
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ParthMahajan1020/ShadowOS-AI.git
 cd ShadowOS-AI
 
 2. Compile (Windows example with GCC)
