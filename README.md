@@ -14,10 +14,10 @@ It includes calculators, converters, games, memory/task utilities, and a convers
 
 ---
 
-🚀 Future Enhancements
-Add more mini-tools & interactive apps
-Smarter ShadowBot with extended AI features
-Simulated file system for real OS-like experience
+## 🚀 Future Enhancements
+- Add more mini-tools & interactive apps
+- Smarter ShadowBot with extended AI features
+- Simulated file system for real OS-like experience
 
 ---
 
