@@ -23,8 +23,8 @@ It includes calculators, converters, games, memory/task utilities, and a convers
 
 ## ⚡ Getting Started
 
-### 1. Clone the repository
 ```bash
+### 1. Clone the repository
 git clone https://github.com/ParthMahajan1020/ShadowOS-AI.git
 cd ShadowOS-AI
 
